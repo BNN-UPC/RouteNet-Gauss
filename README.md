@@ -36,7 +36,7 @@ Once done you can either
 ## Repository structure
 
 The repository contains the following structure:
-- `kept`: Folder containing the checkpoints used in the paper evaluation.
+- `ckpt`: Folder containing the checkpoints used in the paper evaluation.
 - `data`: Folder containing the datasets used in the paper. For information on these, read [Datasets information](#datasets-information).
 - `normalization`: Folder containing the z-score normalizations used by the trained checkpoints (internal path should match the `ckpt` directory).
 - [`evaluation.ipynb`](evaluation.ipynb): an interactive Python notebook file used to evaluate the trained models.
