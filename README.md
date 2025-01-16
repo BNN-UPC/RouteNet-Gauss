@@ -2,7 +2,7 @@
 
 **Carlos Güemes Palau, Miquel Ferrior Galmés, Jordi Paillisse Vilanova, Albert López Brescó, Pere Barlet Ros, Albert Cabellos Aparicio**
 
-This repository is the code of the paper *RouteNet-Gauss: Hardware-Enhanced Network Modeling with Machine Learning* (publication pending)
+This repository is the code of the paper *RouteNet-Gauss: Hardware-Enhanced Network Modeling with Machine Learning*: [[arXiv]](https://arxiv.org/abs/2501.08848)
 
 Contact us: *[carlos.guemes@upc.edu](mailto:carlos.guemes@upc.edu)*, *[contactus@bnn.upc.edu](mailto:contactus@bnn.upc.edu)*
 
